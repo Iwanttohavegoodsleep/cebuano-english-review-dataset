@@ -51,8 +51,6 @@ python -m pip install -r filtering/requirements.txt
 python filtering/filter_reviews.py --input ph_reviews_2025.csv --output-dir output
 ```
 
-The simplified implementation separates the long marker lists from the actual processing steps. It was checked against the original run and reproduced all 3,566 Tier A candidate IDs and review texts.
-
 Validate the included release with:
 
 ```bash
