@@ -1,6 +1,6 @@
 # Cebuano-English Food Review Annotations
 
-A small research dataset of 3,566 Foodpanda reviews selected as likely Cebuano-English code-switched text and labeled by one primary annotator.
+A research dataset of 3,566 Foodpanda reviews selected as likely Cebuano-English code-switched text and labeled by one primary annotator.
 
 This is a **working annotation release**, not the final thesis corpus. A second independent annotation and disagreement resolution are still required before the labels should be treated as final.
 
